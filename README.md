@@ -18,18 +18,18 @@ Config load from folder "maps".<br/>
 ```
 [Scale]
 [Count images of X, image width / every tile (1081px)]
-[Path to dir (can be .zip archive)]
-[Path to dir (can be .zip archive)]
+[Path to dir]
+[Path to dir]
 ```
 
 **Example:**
 ```
 1.0
 3
-C:\maps\map-34.3927-48.7852-35.3927-47.7852.zip
-C:\maps\map-34.3927-47.7852-35.3927-46.7852.zip
-C:\maps\map-35.3927-48.7852-36.3927-47.7852.zip
-C:\maps\map-35.3927-47.7852-36.3927-46.7852.zip
-C:\maps\map-36.3927-48.7852-37.3927-47.7852.zip
-C:\maps\map-36.3927-47.7852-37.3927-46.7852.zip
+C:\maps\map-34.3927-48.7852-35.3927-47.7852
+C:\maps\map-34.3927-47.7852-35.3927-46.7852
+C:\maps\map-35.3927-48.7852-36.3927-47.7852
+C:\maps\map-35.3927-47.7852-36.3927-46.7852
+C:\maps\map-36.3927-48.7852-37.3927-47.7852
+C:\maps\map-36.3927-47.7852-37.3927-46.7852
 ```
